@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi I´m RodCode Welcome 👋
+![banner](https://github.com/rodcode256/rodcode256/assets/148291833/209f1105-8a2d-43bb-8467-ee858f115e8f)
+```JS
+const rodcode256 = {
+pronouns: "he" || "him",
+code : ["HTML", "CSS", "JavaScript", "C#"],
+tools: ["React", "Node", "Docker"]
+]
+```
 <!--
 **rodcode256/rodcode256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
